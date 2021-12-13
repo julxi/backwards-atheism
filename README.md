@@ -8,5 +8,7 @@ Why don't I feel warmth then, I asked myself. Why is life so hard then, I asked 
 
 ## The church:
 1 Faith: God exists
+
 2 Observations: She is a bitch. Not evil, just a bitch
+
 0 Rules
