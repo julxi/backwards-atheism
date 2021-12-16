@@ -1,6 +1,8 @@
 # backwards-atheism
 A religion for those who believe in god but not that god cares about us.
 
+![slogan for backwards-atheism](https://github.com/julxi/backwards-atheism/blob/main/book-of-julian/poster.png?raw=true)
+
 ## The core
 1 Faith: god exists
 
