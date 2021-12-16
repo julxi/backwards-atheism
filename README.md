@@ -1,4 +1,4 @@
-![slogan for backwards-atheism](https://github.com/julxi/backwards-atheism/blob/main/book-of-julian/poster.png?raw=true)
+![slogan for backwards-atheism](https://github.com/julxi/backwards-atheism/blob/main/marketing/poster.png?raw=true)
 
 # backwards atheism
 A religion for those who believe in god but not that god cares about us.
